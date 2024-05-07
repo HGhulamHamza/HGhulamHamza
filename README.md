@@ -1,20 +1,19 @@
-![logo](https://github.com/HGhulamHamza/HGhulamHamza/blob/main/mypic.jpeg)
+ ![github](https://github.com/HGhulamHamza/HGhulamHamza/assets/144622490/07397b04-de55-4651-a63b-adbaccaab4ff)
 <h1 align="center">Hi 👋, I'm Hafiz Hamza</h1>
-
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlspbEHs28VLZX_Luw_hCKfEdTSHrgapYt-kFwQcSzOHLaOIlTBCLQ3C0rYQ&s"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hghulamhamza&label=Profile%20views&color=0e75b6&style=flat" alt="hghulamhamza" /> </p>
 
 - 🌱 I’m currently learning **Web development,DataBase and Data Analytics**
 
 - 📫 How to reach me **khawajahamza566@gmail.com**
 
-- ⚡ Fun fact **I am witty and creative**
+- ⚡ Fun fact **I am witty and creative 🤓😝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ghulamhamza2026" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulam hamza" height="30" width="40" /></a>
-<a href="[https://fb.com/hafiz hamza]([https://www.facebook.com/profile.php?id=100030395737975](https://www.facebook.com/profile.php?id=100030395737975))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafiz hamza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ghulam hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulam hamza" height="30" width="40" /></a>
+<a href="https://fb.com/hafiz hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hafiz hamza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

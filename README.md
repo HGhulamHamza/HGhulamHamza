@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**HGhulamHamza/HGhulamHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to# 💫 About Me:
+# 💫 About Me:
 I’m a MERN & PERN Stack Developer passionate about building scalable, user-friendly web applications and real-world business solutions.<br><br>🔭 Currently working on:<br>Building full-stack web apps for businesses and online stores in Pakistan, along with multiple hands-on practice projects to sharpen my skills.<br><br>🌱 Currently learning:<br>TypeScript, Next.js, and modern animation libraries to create high-performance and visually engaging web experiences.<br><br>🚀 Currently exploring:<br><br>Advanced frontend animations & reusable UI components<br><br>Automation tools like n8n<br><br>Agentic AI tools to automate business workflows and understand user requirements better<br><br>🎯 Future goals:<br>Become a complete Full Stack Developer by mastering:<br><br>⚙️ DevOps (CI/CD, Docker, Cloud basics)<br><br>🧪 Testing (Unit, Integration, E2E)<br><br>🤖 Business automation & AI-driven solutions<br><br>💬 Ask me about:<br>MERN Stack • PERN Stack • React.js • Node.js • Express • MongoDB • PostgreSQL • REST APIs • Frontend Animations • Automation<br><br>⚡ Fun fact:<br>I’m creative, funny, and a great team companion 😄<br>I can work under any level of pressure, adapt quickly, and always aim to deliver tasks on time with quality.
 
 
@@ -23,14 +18,4 @@ I’m a MERN & PERN Stack Developer passionate about building scalable, user-fri
 ---
 [![](https://visitcount.itsvg.in/api?id=HGhulamHamza&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
